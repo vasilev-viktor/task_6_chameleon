@@ -1,0 +1,1 @@
+{"3282d9686285c81d312f6ca67332a3e9":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"60ba356acdb79554","status":"failed","statusDetails":"В репозитории не найден элемент [Меню] ==> expected: not <null>","time":{"start":1724701279110,"stop":1724701283618,"duration":4508}}]}}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="QualITPlugin">
+    <option name="moduleName" />
+    <option name="settings">
+      <list>
+        <Setting>
+          <option name="name" value="allure.enabled" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="applicationUrl" />
+          <option name="type" value="text" />
+          <option name="value" value="http://localhost:8080" />
+        </Setting>
+        <Setting>
+          <option name="name" value="driverType" />
+          <option name="type" value="list" />
+          <option name="value" value="CHROME" />
+        </Setting>
+        <Setting>
+          <option name="name" value="maximizeWindow" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="defaultWaitTimeOut" />
+          <option name="type" value="text" />
+          <option name="value" value="10" />
+        </Setting>
+        <Setting>
+          <option name="name" value="implicitlyWait" />
+          <option name="type" value="text" />
+          <option name="value" value="0" />
+        </Setting>
+        <Setting>
+          <option name="name" value="closeDriverAfterTest" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="connectToRunningApp" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="screenshotConfiguration" />
+          <option name="type" value="list" />
+          <option name="value" value="FOR_FAILURES" />
+        </Setting>
+        <Setting>
+          <option name="name" value="advancedScreenshotMethod" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="fullScreenshot" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="highlightElements" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+      </list>
+    </option>
+  </component>
+</project>

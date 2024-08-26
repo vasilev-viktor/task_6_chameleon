@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<environment>
+    <parameter>
+        <key>applicationUrl (Адрес приложения)</key>
+        <value>http://localhost:8080</value>
+    </parameter>
+    <parameter>
+        <key>driverType (Тип драйвера)</key>
+        <value>CHROME</value>
+    </parameter>
+</environment>
